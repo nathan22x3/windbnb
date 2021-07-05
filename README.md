@@ -6,20 +6,20 @@
 </div>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank" rel="noopener noreferrer">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://nathan22x3.github.io/windbnb">
+    <a href="https://nathan22x3.github.io/windbnb" target="_blank" rel="noopener noreferrer">
       Demo
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://devchallenges.io/solutions/xhXmgt1ud52NbKqsUQvn" target="_blank" rel="noopener noreferrer">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
+    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD" target="_blank" rel="noopener noreferrer">
       Challenge
     </a>
   </h3>
