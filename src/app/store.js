@@ -1,8 +1,12 @@
 import { configureStore } from '@reduxjs/toolkit';
-import stayReducer from 'features/Stay/staySlice';
+import guestsReducer from 'features/Stay/guestSlice';
+import locationReducer from 'features/Stay/locationSlice';
+import staysReducer from 'features/Stay/staysSlice';
 
 const rootReducer = {
-  stays: stayReducer,
+  stays: staysReducer,
+  location: locationReducer,
+  guests: guestsReducer,
 };
 
 const store = configureStore({

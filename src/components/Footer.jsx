@@ -2,7 +2,7 @@ import React from 'react';
 import tw, { styled } from 'twin.macro';
 
 const Container = styled.footer`
-  ${tw`flex justify-center items-center py-7 font-montserrat text-sm text-gray-400`}
+  ${tw`flex justify-center items-center py-7 font-montserrat text-sm text-gray-500`}
 `;
 
 const Link = styled.a`

@@ -26,7 +26,7 @@ const Type = styled.span`
 const Rating = styled.span`
   ${tw` flex gap-x-[6px] justify-self-end items-center text-xs md:text-sm`}
 
-  & > *:first-of-type {
+  svg {
     ${tw`fill-current text-red-500 w-[14px] md:w-4`}
   }
 `;

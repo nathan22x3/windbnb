@@ -41,14 +41,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+<img src="src/assets/images/result.gif" alt='Result' />
 
 ### Built With
 
@@ -59,6 +52,13 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) was to build an application to complete the given user stories.
+
+- [x] **User story**: I can see a list of properties
+- [x] **User story**: I can see the property card with a name, rating, apartment type, and super host
+- [x] **User story**: I can open the filter drawer
+- [x] **User story**: I can filter properties by location and number of guests
+- [x] **User story**: I can see the number of filtered items
+- [x] **User story**: I can see pages following given designs
 
 ## How To Use
 
