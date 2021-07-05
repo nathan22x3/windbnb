@@ -41,7 +41,7 @@
 
 ## Overview
 
-<img src="src/assets/images/result.gif" alt='Result' />
+<img src="src/assets/images/result.gif" alt='Result' width="100%" />
 
 ### Built With
 
